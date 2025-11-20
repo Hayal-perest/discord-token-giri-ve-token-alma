@@ -1,0 +1,28 @@
+{
+  "manifest_version": 3,
+  "name": "discord tqken script",
+  "version": "1.1",
+  "description": "Kullanıcının girdiği scripti hedef sayfalarda çalıştırır (manuel veya otomatik).",
+  "permissions": [
+    "scripting",
+    "storage",
+    "tabs",
+    "activeTab"
+  ],
+  "host_permissions": [
+    "https://discord.com/*",
+    "https://*.discord.com/*",
+    "https://*.example.com/*"
+  ],
+  "action": {
+    "default_icon": "logo.png",
+    "default_popup": "popup.html"
+  
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_security_policy": {
+    "extension_pages": "script-src 'self'; connect-src https://discord.com;"
+  }
+}
