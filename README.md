@@ -7,3 +7,6 @@ uzantıları yönete tıklayın
 geliştirici modu seçeneğini açın
 paketlenmemiş öğeyi yükleyi seçip indirdiğiniz dosyayı seçin
 işte herşey hazır artık discord token login ve token almak daha kolay
+
+
+SORUMLULUK REDDİ BEYANI HERHANGİ BİR HESABINIZIN BANLANMASI ÇALINMASI VE/VEYA OLASI BAŞKA ŞEYLERDEN SORUMLULUK KABUL EDİLMEMEKTEDİR BU HESABINIZIN YASAKLANMASINA SEBEP OLABİLİR
